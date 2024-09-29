@@ -12,11 +12,11 @@
   },
   "devDependencies": {
     "@types/chrome": "^0.0.272",
-    "@types/prettier": "^2.7.3",
+    "@types/prettier": "^3.0.0",
     "typescript": "^5.5.3",
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^3.0.0"
   }
 }
